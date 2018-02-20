@@ -1,0 +1,14 @@
+{
+  "name": "innoutchallenge_slackbot",
+  "version": "1.0.0",
+  "description": "Slack Bot for the #innoutchallenge",
+  "main": "server.js",
+  "author": "David Rae",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "dotenv": "^5.0.0",
+    "express": "^4.16.2",
+    "slackbots": "^1.1.0"
+  }
+}
